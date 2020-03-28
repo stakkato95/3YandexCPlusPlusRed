@@ -1,0 +1,2747 @@
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 
+at most one edge of our tree. So since 
+binary max heap. Namely it can 
+that is, to a number which is 
+When we call it, the change priority 
+root of our tree. Then to 
+So in this particular example 
+18, which is highlighted 
+Then the ChangePriority procedure 
+that the property is violated on 
+elements and each at this 
+node, we just call the 
+to replace the root node with 
+we replace the root with 11. Then we 
+go closer to the leaves.
+is still a problem on the edge from 11 
+Well, once again since everything 
+And the second one is extracting the 
+So we conclude that the 
+Big O of the tree height. So to summarize, 
+in time proportional to the tree 
+in our current implementation.
+And this will be the subject of our next
+Now let see how
+And it is violated
+somehow. So to fix
+closer to the root. So
+the following 
+need to fix this red 
+in this binary tree.
+that the heap 
+is violated on at 
+gets closer to the 
+height of this tree.
+as well as the running time of 
+First of all, recall that 
+However, we cannot 
+So we need to 
+a binary tree is any leaf.
+the root with this leaf. So 
+this does violate the property. So 
+So 12 is a 
+Great, so for this 
+to SiftUp, we are
+we can 
+a little bit we realize that it will 
+Because the left child is larger than 
+edge will be 
+SiftDown procedure. Once 
+node with this larger 
+The left edge is also fixed, 
+node might introduce 
+is still a problematic 
+greater than seven, 
+we just get a tree 
+the following invariant. At 
+the problematic node.
+running time of the 
+the tree height.
+it's not so difficult 
+element for which 
+element for which 
+be introduced by changing its 
+up or sifting down.
+to change the 
+We just increased the priority of this element to 
+problems and we need to fix some.
+we need to sift it up. So we need
+Which repeatedly swaps 
+the following sequence of 
+we see there is still a problem 35 is 
+that 35 is smaller than its parent. And 

@@ -1,0 +1,2747 @@
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
+at most one edge of our tree. So since : {docid: 9, hitcount: 1}
+binary max heap. Namely it can : {docid: 9, hitcount: 1}
+that is, to a number which is : {docid: 9, hitcount: 4}
+When we call it, the change priority : {docid: 19, hitcount: 1}
+root of our tree. Then to : {docid: 9, hitcount: 3}
+So in this particular example : {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+18, which is highlighted : {docid: 10, hitcount: 1}
+Then the ChangePriority procedure : {docid: 19, hitcount: 1}
+that the property is violated on : {docid: 10, hitcount: 1}
+elements and each at this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+node, we just call the : {docid: 19, hitcount: 1}
+to replace the root node with : {docid: 9, hitcount: 2}
+we replace the root with 11. Then we : {docid: 19, hitcount: 2}
+go closer to the leaves.: {docid: 9, hitcount: 2}
+is still a problem on the edge from 11 : {docid: 9, hitcount: 3}
+Well, once again since everything : {docid: 101, hitcount: 1}
+And the second one is extracting the : {docid: 10, hitcount: 1}
+So we conclude that the : {docid: 11, hitcount: 1}
+Big O of the tree height. So to summarize, : {docid: 9, hitcount: 3}
+in time proportional to the tree : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+in our current implementation.: {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+And this will be the subject of our next: {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+Now let see how: {docid: 9, hitcount: 3}
+And it is violated: {docid: 9, hitcount: 1}
+somehow. So to fix: {docid: 9, hitcount: 2}
+closer to the root. So: {docid: 9, hitcount: 2}
+the following : {docid: 19, hitcount: 1}
+need to fix this red : {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+in this binary tree.: {docid: 0, hitcount: 2} {docid: 7, hitcount: 1}
+that the heap : {docid: 11, hitcount: 1}
+is violated on at : {docid: 10, hitcount: 1}
+gets closer to the : {docid: 9, hitcount: 2}
+height of this tree.: {docid: 0, hitcount: 1} {docid: 9, hitcount: 1}
+as well as the running time of : {docid: 9, hitcount: 1}
+First of all, recall that : {docid: 9, hitcount: 1}
+However, we cannot : {docid: 20, hitcount: 1}
+So we need to : {docid: 9, hitcount: 2}
+a binary tree is any leaf.: {docid: 9, hitcount: 2}
+the root with this leaf. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 2}
+this does violate the property. So : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+So 12 is a : {docid: 9, hitcount: 2}
+Great, so for this : {docid: 0, hitcount: 1} {docid: 7, hitcount: 1}
+to SiftUp, we are: {docid: 0, hitcount: 1} {docid: 9, hitcount: 2}
+we can : {docid: 20, hitcount: 1}
+a little bit we realize that it will : {docid: 8, hitcount: 1}
+Because the left child is larger than : {docid: 10, hitcount: 1}
+edge will be : {docid: 8, hitcount: 1}
+SiftDown procedure. Once : {docid: 145, hitcount: 1}
+node with this larger : {docid: 0, hitcount: 1} {docid: 19, hitcount: 1}
+The left edge is also fixed, : {docid: 7, hitcount: 1}
+node might introduce : {docid: 107, hitcount: 2}
+is still a problematic : {docid: 9, hitcount: 2}
+greater than seven, : {docid: 11, hitcount: 1}
+we just get a tree : {docid: 9, hitcount: 2}
+the following invariant. At : {docid: 19, hitcount: 1}
+the problematic node.: {docid: 19, hitcount: 1}
+running time of the : {docid: 9, hitcount: 1}
+the tree height.: {docid: 19, hitcount: 1}
+it's not so difficult : {docid: 27, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+element for which : {docid: 7, hitcount: 1}
+be introduced by changing its : {docid: 73, hitcount: 1}
+up or sifting down.: {docid: 40, hitcount: 1}
+to change the : {docid: 9, hitcount: 2}
+We just increased the priority of this element to : {docid: 0, hitcount: 1} {docid: 8, hitcount: 1}
+problems and we need to fix some.: {docid: 7, hitcount: 2}
+we need to sift it up. So we need: {docid: 9, hitcount: 3}
+Which repeatedly swaps : {docid: 110, hitcount: 1}
+the following sequence of : {docid: 9, hitcount: 1}
+we see there is still a problem 35 is : {docid: 9, hitcount: 3}
+that 35 is smaller than its parent. And : {docid: 10, hitcount: 1}
